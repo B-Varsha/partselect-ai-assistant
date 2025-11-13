@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+requests
+chromadb==1.3.4
+sentence-transformers
+python-dotenv
+numpy
+pandas
+scikit-learn
